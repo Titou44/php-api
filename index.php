@@ -1,6 +1,5 @@
 <?php
 
-
-for ($i=0; $i <10 ; $i++) { 
+for ($i=0; $i <$argv[1] ; $i++) { 
 	echo "Hello World".PHP_EOL ;
 }
